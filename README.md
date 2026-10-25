@@ -3,8 +3,7 @@
 A hands-on build of a classic two-tier architecture on Microsoft Azure: a public-facing web server and a private database server, isolated from each other and from the internet with subnets and Network Security Groups (NSGs).
 
 **Author:** Prince C. Aguguo
-**Lab source:** Lab 02 from the Azure course by Jhante Charles (adapted and extended with a CLI build and hardening notes)
-**Cloud:** Microsoft Azure | **Region:** East US | **Difficulty:** Beginner | **Time:** ~60 min
+
 
 ---
 
